@@ -1,4 +1,4 @@
-# ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Valeriia%20Dzhyn&fontSize=70)
+# ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Valeriia&fontSize=70)
 
 ### 🎓 Studentka Informatyki @ Akademia Nauk Stosowanych w Elblągu
 
