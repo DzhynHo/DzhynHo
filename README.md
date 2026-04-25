@@ -1,4 +1,4 @@
-# Cześć, jestem Valeriia! 👋
+# Cześć, jestem Valeriia! 
 
 ### 🎓 Studentka Informatyki @ Akademia Nauk Stosowanych w Elblągu
 [cite_start]Specjalizuję się w **projektowaniu baz danych i oprogramowaniu użytkowym**[cite: 36]. [cite_start]Moim celem jest rozwój jako **Backend / Fullstack Developer**[cite: 2, 40].
