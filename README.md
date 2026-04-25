@@ -1,4 +1,4 @@
-# ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Valeriia&fontSize=70)
+# ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Czesc,%20jestem%20Valeriia&fontSize=60)
 
 ### 🎓 Studentka Informatyki @ Akademia Nauk Stosowanych w Elblągu
 
