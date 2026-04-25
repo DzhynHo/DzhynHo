@@ -46,11 +46,6 @@
 
 ---
 
-### 🐍 Snake Game - My Coding Journey
-![snake gif](https://github.com/DzhynHo/DzhynHo/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 📫 Kontakt
 * 📧 Email: [epfkhylchenko1321@gmail.com](mailto:epfkhylchenko1321@gmail.com)
 * 📍 Lokalizacja: Elbląg, Polska
